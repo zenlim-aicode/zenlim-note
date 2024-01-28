@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksocial_media_jotdown=self.webpackChunksocial_media_jotdown||[]).push([[5079],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
